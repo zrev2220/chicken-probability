@@ -9,8 +9,8 @@ python = ">=3.10.0,<3.11"
 tqdm = "^4.66.1"
 
 [tool.poetry.group.dev.dependencies]
-black = "^23.12.0"
-ruff = "^0.1.8"
+black = "^23.12.1"
+ruff = "^0.1.9"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
